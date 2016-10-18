@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="txt_btn_send_notification">Send Notification!</string>
+    <string name="txt_btn_clear_notification">Clear Notification</string>
+    <string name="txt_btn_back">BACK</string>
+    <string name="txt_btn_start">START</string>
+    <string name="txt_btn_stop">STOP</string>
+    <string name="txt_btn_start_intent_service">START INTENT SERVICE</string>
+    <string name="txt_btn_follow_to_secactivity">FOLLOW TO SECOND ACTIVITY</string>
+    <string name="aap_name_update">Update File</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="update">UPDATE</string>
+</resources>
